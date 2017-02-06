@@ -1,0 +1,27 @@
+﻿[
+  {
+    "Name": "Anna",
+    "PersonalIdNumber": "720220-1111",
+    "Id": "13cf4bc2-92a3-4700-b697-fc9fbffe7143"
+  },
+  {
+    "Name": "Bertil",
+    "PersonalIdNumber": "820923-2222",
+    "Id": "048f4ad0-a6fd-4119-b965-56113ac516de"
+  },
+  {
+    "Name": "Cecilia",
+    "PersonalIdNumber": "620405-3333",
+    "Id": "107f7ab5-a613-4e10-8538-bc4eb0e75ebc"
+  },
+  {
+    "Name": "David",
+    "PersonalIdNumber": "900515-4444",
+    "Id": "4734e921-974e-413a-ab03-57b647a5537b"
+  },
+  {
+    "Name": "Emma",
+    "PersonalIdNumber": "431123-5555",
+    "Id": "3304c52b-267d-4190-81ec-07230061f026"
+  }
+]
